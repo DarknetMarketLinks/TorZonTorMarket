@@ -25,6 +25,6 @@ TorZon Market Darknet | TorZon Onion &amp; Darknet url
   <p>Torzon links:</p>
 <a href="http://torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion/">torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion</a>
   <br>
-<a href="https://torzontormarket.com/">torzonmarketcontact.com</a>
+<a href="https://torzontormarket.com/">torzontormarket.com</a>
   <br>
 </body>
